@@ -1,0 +1,14 @@
+C:\Users\dipta\source\repos\testLiveCoding\testLiveCoding\bin\Debug\netcoreapp2.2\testLiveCoding.deps.json
+C:\Users\dipta\source\repos\testLiveCoding\testLiveCoding\bin\Debug\netcoreapp2.2\testLiveCoding.runtimeconfig.json
+C:\Users\dipta\source\repos\testLiveCoding\testLiveCoding\bin\Debug\netcoreapp2.2\testLiveCoding.runtimeconfig.dev.json
+C:\Users\dipta\source\repos\testLiveCoding\testLiveCoding\bin\Debug\netcoreapp2.2\testLiveCoding.dll
+C:\Users\dipta\source\repos\testLiveCoding\testLiveCoding\obj\Debug\netcoreapp2.2\testLiveCoding.csprojAssemblyReference.cache
+C:\Users\dipta\source\repos\testLiveCoding\testLiveCoding\obj\Debug\netcoreapp2.2\testLiveCoding.csproj.CoreCompileInputs.cache
+C:\Users\dipta\source\repos\testLiveCoding\testLiveCoding\obj\Debug\netcoreapp2.2\testLiveCoding.RazorAssemblyInfo.cache
+C:\Users\dipta\source\repos\testLiveCoding\testLiveCoding\obj\Debug\netcoreapp2.2\testLiveCoding.RazorAssemblyInfo.cs
+C:\Users\dipta\source\repos\testLiveCoding\testLiveCoding\obj\Debug\netcoreapp2.2\testLiveCoding.AssemblyInfoInputs.cache
+C:\Users\dipta\source\repos\testLiveCoding\testLiveCoding\obj\Debug\netcoreapp2.2\testLiveCoding.AssemblyInfo.cs
+C:\Users\dipta\source\repos\testLiveCoding\testLiveCoding\obj\Debug\netcoreapp2.2\testLiveCoding.RazorTargetAssemblyInfo.cache
+C:\Users\dipta\source\repos\testLiveCoding\testLiveCoding\bin\Debug\netcoreapp2.2\testLiveCoding.pdb
+C:\Users\dipta\source\repos\testLiveCoding\testLiveCoding\obj\Debug\netcoreapp2.2\testLiveCoding.dll
+C:\Users\dipta\source\repos\testLiveCoding\testLiveCoding\obj\Debug\netcoreapp2.2\testLiveCoding.pdb
